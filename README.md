@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Cristian!
+# 👋 Hey, I'm Christian!
 
 I'm a game development enthusiast from the USA, eager to dive into Unity and level up my coding skills. Right now, I'm in that super-exciting (and slightly nerve-wracking) phase of learning the ropes and exploring all the possibilities that game dev has to offer.
 
