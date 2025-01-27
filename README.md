@@ -16,7 +16,8 @@ I'm a game development enthusiast from the USA, eager to dive into Unity and lev
 <div>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>  
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Git Badge"/>
 </div>
 
 > Always experimenting with new tools and languages—whatever helps me craft awesome games!
@@ -66,7 +67,7 @@ I'm a game development enthusiast from the USA, eager to dive into Unity and lev
 
 ## 📫 Reach Out
 
-If you're into game dev, VR/AR, or just want to talk about coding adventures, feel free to hit me up!
+If you're into game dev, 3D modeling, or just want to talk about coding adventures, feel free to hit me up!
 
 - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 - [![Gmail Badge](https://img.shields.io/badge/-ChRamplny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ChRamplny@gmail.com)](mailto:ChRamplny@gmail.com)
