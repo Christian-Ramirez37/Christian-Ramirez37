@@ -5,7 +5,7 @@ I'm a game development enthusiast from the USA, eager to dive into Unity and lev
 ## 💼 About Me
 
 - 🎓 **Learning Path**: Self-taught + online courses (Unity, C#, and more)
-- 🎮 **Main Interests**: Game Development (Unity, Godot, etc.), Level Design, AI in games
+- 🎮 **Main Interests**: Game Development (Unity, etc.), Level Design, AI in games
 - 🌱 **Currently Exploring**: C#, Unity scripting, and anything that helps me build fun, playable games
 - ⚡ **Fun Fact**: I'm always on the lookout for cool tutorials or game jams to boost my skills!
 
