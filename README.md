@@ -68,7 +68,7 @@ I'm a game development enthusiast from the USA, eager to dive into Unity and lev
 
 If you're into game dev, 3D modeling, or just want to talk about coding adventures, feel free to hit me up!
 
-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-ram-b916b9384)
 - [![Gmail Badge](https://img.shields.io/badge/-ChRamplny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ChRamplny@gmail.com)](mailto:ChRamplny@gmail.com)
 
 ---
